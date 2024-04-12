@@ -25,10 +25,10 @@
     "minimist": "^1.2.3",
     "mkdirp-classic": "^0.5.3",
     "napi-build-utils": "^1.0.1",
-    "node-abi": "^3.3.0",
+    "node-abi": "^3.57.0",
     "pump": "^3.0.0",
     "rc": "^1.2.7",
-    "simple-get": "^4.0.0",
+    "simple-get": "^4.0.1",
     "tar-fs": "^2.0.0",
     "tunnel-agent": "^0.6.0"
   },
@@ -44,7 +44,7 @@
   "bin": "./bin.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prebuild/prebuild-install.git"
+    "url": "https://github.com/choyunsung/prebuild-install.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "contributors": [
@@ -58,9 +58,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prebuild/prebuild-install/issues"
+    "url": "https://github.com/choyunsung/prebuild-install/issues"
   },
-  "homepage": "https://github.com/prebuild/prebuild-install",
+  "homepage": "https://github.com/choyunsung/prebuild-install",
   "engines": {
     "node": ">=10"
   }
