@@ -44,7 +44,7 @@
   "bin": "./bin.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/choyunsung/prebuild-install.git"
+    "url": "https://github.com/ingstory/prebuild-install.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "contributors": [
@@ -58,9 +58,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/choyunsung/prebuild-install/issues"
+    "url": "https://github.com/ingstory/prebuild-install/issues"
   },
-  "homepage": "https://github.com/choyunsung/prebuild-install",
+  "homepage": "https://github.com/ingstory/prebuild-install",
   "engines": {
     "node": ">=10"
   }
