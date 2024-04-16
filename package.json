@@ -1,6 +1,6 @@
 {
   "name": "@ingstory/prebuild-install",
-  "version": "7.1.4",
+  "version": "7.1.5",
   "author": "ingstory",
   "description": "A command line tool to easily install prebuilt binaries for multiple version of node/iojs on a specific platform",
   "scripts": {
